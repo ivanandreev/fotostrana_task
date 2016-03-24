@@ -1,0 +1,16 @@
+PODS:
+  - HanekeSwift (0.10.0)
+  - OAuthSwift (0.5.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - HanekeSwift
+  - OAuthSwift
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  HanekeSwift: d6f5bdf9dbdbbc09d59623b2c1d533e46463dd4d
+  OAuthSwift: f2e0de083739da5697be095c9af2671242a4ed8b
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+COCOAPODS: 0.39.0
